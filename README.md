@@ -4,7 +4,7 @@ Olá! 👋 Eu sou o Angel Rafael, um entusiasta de tecnologia e desenvolvedor fr
 
 ## Sobre Mim
 - 🌍 Localização: Sinop, MT
-- 👨‍🎓 Atualmente cursando Sistema de Informação
+- 👨‍🎓 Cursando Sistema de Informação
 
 ## Habilidades
 - 💻 Python, HTML5, CSS, C#, C++, GML
