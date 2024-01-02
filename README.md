@@ -3,7 +3,7 @@
 Olá! 👋 Eu sou o Angel Rafael, um entusiasta de tecnologia e desenvolvedor freelancer apaixonado por criar soluções inovadoras.
 
 ## Sobre Mim
-- 🌍 Localização: Sinop, [Estado]
+- 🌍 Localização: Sinop, MT
 - 👨‍🎓 Atualmente cursando Sistema de Informação
 
 ## Habilidades
