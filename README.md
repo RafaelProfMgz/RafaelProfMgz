@@ -36,6 +36,7 @@ Como desenvolvedor full stack, também trabalhei em um sistema legado, utilizand
 
 ## Portfólio e Projetos Pessoais
 
+**Portfólio feito usando somente html, javascript e css**: 
 Neste repositório, incluo uma amostra de projetos desenvolvidos ao longo da minha trajetória acadêmica e profissional, alguns dos quais estão vinculados ao meu [portfólio online](https://portifolio-ten-livid-17.vercel.app/). Entre eles, destaco projetos de desenvolvimento web e desktop, além de estudos na área de desenvolvimento mobile.
 
 ### Curiosidade
