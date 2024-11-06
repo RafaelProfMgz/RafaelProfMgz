@@ -29,7 +29,7 @@ Como desenvolvedor full stack, também trabalhei em um sistema legado, utilizand
 - **Linguagens de Programação:** TypeScript, JavaScript, Python, PHP, C#, C, Java, GML.
 - **Bancos de Dados:** MySQL, phpMyAdmin, SQLite.
 - **Hospedagem e Serviços em Nuvem:** Google Cloud, Heroku, Vercel.
-- **Frameworks e Ferramentas de Desenvolvimento:** Node.js, React, Tailwind CSS, Bootstrap, SASS.
+- **Frameworks e Ferramentas de Desenvolvimento:** Laravel, Node.js, React, Tailwind CSS, Bootstrap, SASS.
 - **Sistemas e APIs:** Implementação de servidores com Node.js e integração de bibliotecas para gerenciamento de mapas, rotas e tabelas.
 
 ---
