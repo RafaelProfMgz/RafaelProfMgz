@@ -13,7 +13,7 @@ Meu nome é Angel Rafael Souza da Silva, atualmente cursando o 3º semestre de S
 ## Experiências Profissionais
 
 ### Backend
-Em meus primeiros projetos, concentrei-me no backend, utilizando **Python** como linguagem principal e **MySql** como banco de dados. Desenvolvi um aplicativo de gestão empresarial para uma loja de peças, assumindo todas as etapas do projeto: desde a criação das interfaces no frontend até as conexões com o banco de dados. Esse foi um projeto pessoal de desenvolvimento, no qual trabalhei por aproximadamente um ano. Um esboço inicial do projeto pode ser encontrado em meu GitHub.
+Em meus primeiros projetos, concentrei-me no backend, utilizando **Python** como linguagem principal e **MariaDB** como banco de dados. Desenvolvi um aplicativo de gestão empresarial para uma loja de peças, assumindo todas as etapas do projeto: desde a criação das interfaces no frontend até as conexões com o banco de dados. Esse foi um projeto pessoal de desenvolvimento, no qual trabalhei por aproximadamente um ano. Um esboço inicial do projeto pode ser encontrado em meu GitHub.
 
 ### Frontend e Full Stack
 No início de 2023, comecei a explorar o desenvolvimento web, inicialmente criando dois sites pessoais para funcionários de empresas de seguros, utilizando **WordPress**. Em junho do mesmo ano, ingressei como desenvolvedor web frontend em uma empresa, onde trabalhei na criação de páginas web em colaboração com o time de marketing, utilizando **JavaScript**, **HTML**, **CSS** e **Tailwind**.
@@ -26,7 +26,7 @@ Como desenvolvedor full stack, também trabalhei em um sistema legado, utilizand
 
 ## Principais Competências Técnicas
 
-- **Linguagens de Programação:** TypeScript, JavaScript, Python, PHP, C#, C, GML.
+- **Linguagens de Programação:** TypeScript, JavaScript, Python, PHP, C#, C, Java, GML.
 - **Bancos de Dados:** MySQL, phpMyAdmin, SQLite.
 - **Hospedagem e Serviços em Nuvem:** Google Cloud, Heroku, Vercel.
 - **Frameworks e Ferramentas de Desenvolvimento:** Node.js, React, Tailwind CSS, Bootstrap, SASS.
@@ -36,7 +36,7 @@ Como desenvolvedor full stack, também trabalhei em um sistema legado, utilizand
 
 ## Portfólio e Projetos Pessoais
 
-Neste repositório, incluo uma amostra de projetos desenvolvidos ao longo da minha trajetória acadêmica e profissional, alguns dos quais estão vinculados ao meu portfólio online. Entre eles, destaco projetos de desenvolvimento web e desktop, além de estudos na área de desenvolvimento mobile.
+Neste repositório, incluo uma amostra de projetos desenvolvidos ao longo da minha trajetória acadêmica e profissional, alguns dos quais estão vinculados ao meu [portfólio online](https://portifolio-ten-livid-17.vercel.app/). Entre eles, destaco projetos de desenvolvimento web e desktop, além de estudos na área de desenvolvimento mobile.
 
 ### Curiosidade
 Antes de iniciar na área de desenvolvimento web, trabalhei com a criação e lançamento de jogos pessoais, uma experiência que complementa minha formação e desperta grande interesse pelo desenvolvimento mobile, sobre o qual venho estudando para aprimorar meus conhecimentos.
@@ -45,7 +45,7 @@ Antes de iniciar na área de desenvolvimento web, trabalhei com a criação e la
 
 ## Conecte-se Comigo
 
-Para saber mais sobre meus projetos e experiência, acesse meu [LinkedIn](#https://www.linkedin.com/in/angel-rafael-souza-da-silva-a5ba2521a/) ou explore os repositórios neste GitHub. Acredito que a programação é uma habilidade em constante evolução e, por isso, continuo investindo em aprendizado contínuo e em novos desafios no desenvolvimento web e desktop.
+Para saber mais sobre meus projetos e experiência, acesse meu [LinkedIn](https://www.linkedin.com/in/angel-rafael-souza-da-silva-a5ba2521a/) ou explore os repositórios neste GitHub. Acredito que a programação é uma habilidade em constante evolução e, por isso, continuo investindo em aprendizado contínuo e em novos desafios no desenvolvimento web e desktop.
 
 ---
 
