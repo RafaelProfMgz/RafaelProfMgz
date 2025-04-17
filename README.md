@@ -1,54 +1,87 @@
-# Angel Rafael Souza da Silva
+![NestJS](https://img.icons8.com/color/48/000000/nestjs.png)
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![Go](https://img.icons8.com/color/48/000000/golang.png)
+![Express](https://img.icons8.com/color/48/000000/express.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
+![Vite](https://img.icons8.com/color/48/000000/vite.png)
 
-**Estudante de Sistemas de Informação | Desenvolvedor Full Stack**
+## Frontend
+
+<p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+     
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+       <img alt="Next.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line-wordmark.svg" width="40" height="40">
+     </picture>
+   </a>
+</p>
+
+*   **React:** Uma biblioteca JavaScript para construir interfaces de usuário interativas. (Ícone colorido, bom em ambos os temas).
+*   **Next.js:** Um framework React para produção. (Usa versões diferentes do logo para temas claro/escuro para melhor visibilidade).
+
+## Backend
+
+<p align="left">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
+  </a>
+     
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+     
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+      
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+       <img alt="Express.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40">
+     </picture>
+   </a>
+</p>
+
+*   **Go (Golang):** Linguagem eficiente e compilada. (Ícone colorido do Gopher, bom em ambos os temas).
+*   **Node.js:** Ambiente de execução JavaScript backend. (Ícone verde, bom em ambos os temas).
+*   **NestJS:** Framework Node.js progressivo. (Ícone vermelho, bom em ambos os temas).
+*   **Express.js:** Framework web minimalista para Node.js. (Usa versões diferentes do logo para temas claro/escuro para melhor visibilidade).
+
+## Linguagens
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+     
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+</p>
+
+*   **JavaScript:** Linguagem fundamental da web. (Ícone amarelo, bom em ambos os temas).
+*   **TypeScript:** Superset do JavaScript com tipagem estática. (Ícone azul, bom em ambos os temas).
+
+## Ferramentas de Build / Desenvolvimento
+
+<p align="left">
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
+  </a>
+</p>
+
+*   **Vite:** Ferramenta de build rápida para desenvolvimento web moderno. (Ícone SVG colorido, bom em ambos os temas).
 
 ---
 
-## Sobre Mim
-
-Meu nome é Angel Rafael Souza da Silva, atualmente cursando o 3º semestre de Sistemas de Informação. Neste portfólio, apresento um resumo das minhas experiências na área de desenvolvimento, onde atuei como desenvolvedor backend, frontend e full stack. Tenho aproximadamente 2 anos de experiência profissional e acadêmica, com foco em desenvolvimento web e desktop.
-
----
-
-## Experiências Profissionais
-
-### Backend
-Em meus primeiros projetos, concentrei-me no backend, utilizando **Python** como linguagem principal e **MariaDB** como banco de dados. Desenvolvi um aplicativo de gestão empresarial para uma loja de peças, assumindo todas as etapas do projeto: desde a criação das interfaces no frontend até as conexões com o banco de dados. Esse foi um projeto pessoal de desenvolvimento, no qual trabalhei por aproximadamente um ano. Um esboço inicial do projeto pode ser encontrado em meu GitHub.
-
-### Frontend e Full Stack
-No início de 2023, comecei a explorar o desenvolvimento web, inicialmente criando dois sites pessoais para funcionários de empresas de seguros, utilizando **WordPress**. Em junho do mesmo ano, ingressei como desenvolvedor web frontend em uma empresa, onde trabalhei na criação de páginas web em colaboração com o time de marketing, utilizando **JavaScript**, **HTML**, **CSS** e **Tailwind**.
-
-Posteriormente, fui designado para o desenvolvimento de um web app de gestão para provedores de internet, que inclui funcionalidades como cadastro de clientes e controle de rotas. Neste projeto, utilizo principalmente **TypeScript**, **React**, **Tailwind**, além de bibliotecas para controle de mapas, rotas e validação de formulários.
-
-Como desenvolvedor full stack, também trabalhei em um sistema legado, utilizando **PHP** para a lógica de negócio e **TypeScript** no frontend, com **phpMyAdmin** como banco de dados. Esse projeto envolveu tecnologias como **React**, **Node.js**, **Bootstrap**, **Sass**, e **HTML**.
-
----
-
-## Principais Competências Técnicas
-
-- **Linguagens de Programação:** TypeScript, JavaScript, Python, PHP, C#, C, Java, GML.
-- **Bancos de Dados:** MySQL, phpMyAdmin, SQLite.
-- **Hospedagem e Serviços em Nuvem:** Google Cloud, Heroku, Vercel.
-- **Frameworks e Ferramentas de Desenvolvimento:** Laravel, Node.js, React, Tailwind CSS, Bootstrap, SASS.
-- **Sistemas e APIs:** Implementação de servidores com Node.js e integração de bibliotecas para gerenciamento de mapas, rotas e tabelas.
-
----
-
-## Portfólio e Projetos Pessoais
-
-**Portfólio feito usando somente html, javascript e css**: 
-Neste repositório, incluo uma amostra de projetos desenvolvidos ao longo da minha trajetória acadêmica e profissional, alguns dos quais estão vinculados ao meu [portfólio online](https://portifolio-ten-livid-17.vercel.app/). Entre eles, destaco projetos de desenvolvimento web e desktop, além de estudos na área de desenvolvimento mobile.
-
-### Curiosidade
-Antes de iniciar na área de desenvolvimento web, trabalhei com a criação e lançamento de jogos pessoais, uma experiência que complementa minha formação e desperta grande interesse pelo desenvolvimento mobile, sobre o qual venho estudando para aprimorar meus conhecimentos.
-
----
-
-## Conecte-se Comigo
-
-Para saber mais sobre meus projetos e experiência, acesse meu [LinkedIn](https://www.linkedin.com/in/angel-rafael-souza-da-silva-a5ba2521a/) ou explore os repositórios neste GitHub. Acredito que a programação é uma habilidade em constante evolução e, por isso, continuo investindo em aprendizado contínuo e em novos desafios no desenvolvimento web e desktop.
-
----
-
-**Angel Rafael Souza da Silva**  
-*Desenvolvedor Full Stack e Estudante de Sistemas de Informação*
+*Ícones fornecidos por [Devicon](https://github.com/devicons/devicon), sites oficiais e adaptados para compatibilidade de tema claro/escuro onde necessário.*
+*Nota: A exibição de ícones específicos para tema claro/escuro depende do suporte do visualizador de Markdown (funciona bem no GitHub).*
