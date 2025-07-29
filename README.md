@@ -2,8 +2,6 @@
 ![Next.js](https://img.icons8.com/color/48/000000/nextjs.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Go](https://img.icons8.com/color/48/000000/golang.png)
-![Express](https://img.icons8.com/color/48/000000/express.png)
 ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
