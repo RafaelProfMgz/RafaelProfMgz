@@ -52,7 +52,7 @@ Olá, me chamo **Angel Rafael Souza Da Silva**, sou de Mato Grosso, Brasil.
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelProfMgz&theme=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelProfMgz&show_icons=true" />
 </picture>
 
 <br />
