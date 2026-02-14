@@ -102,7 +102,6 @@ graph TD
   <img src="https://komarev.com/ghpvc/?username=RafaelProfMgz&color=7333ff&style=for-the-badge&label=AUDIÊNCIA+DA+PÁGINA" alt="contagem de visitas" />
 </p>
 
----
 
 <p align="center">
   <i>"Programar é a arte de criar mundos do nada."</i><br>
