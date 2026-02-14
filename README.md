@@ -107,5 +107,3 @@ graph TD
   <i>"Programar é a arte de criar mundos do nada."</i><br>
   Copyright © 2024 - <b>Angel Rafael Souza Da Silva</b>
 </p>
-```
-
