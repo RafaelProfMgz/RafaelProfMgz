@@ -9,7 +9,9 @@
   <a href="#registros"><img src="https://img.shields.io/badge/Registros-5b21b6?style=for-the-badge" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <a id="cronicas"></a>
 ## Crônicas do Beyonder
@@ -33,7 +35,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <a id="artefatos"></a>
 ## Artefatos em Destaque (Projetos)
@@ -75,7 +79,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <a id="grimorio"></a>
 ## Grimório Tecnológico (Stack)
@@ -138,7 +144,9 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <a id="registros"></a>
 ## Registros da Jornada (Estatísticas)
@@ -152,7 +160,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelProfMgz&bg_color=0d1117&color=a78bfa&line=5b21b6&point=ffffff&area=true&hide_border=true&custom_title=Fluxo%20de%20C%C3%B3digos" alt="Activity Graph" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 ## Conexões
 
@@ -177,4 +187,8 @@
 <p align="center">
   <i>"O Louco que não pertence a esta era; O Governante Misterioso acima da Névoa Cinza; O Rei do Amarelo e do Preto que domina o código e a sorte."</i> <br> Transcrito sob a luz das estrelas por Angel Rafael • Era da Névoa Cinza
 </br>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5b21b6&height=100&section=footer" width="100%"/>
 </p>
