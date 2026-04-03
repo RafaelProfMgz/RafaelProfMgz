@@ -1,5 +1,3 @@
-# <p align="center">🌌 Bem-vindo ao meu Domínio Digital</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5b21b6&height=220&section=header&text=Angel%20Rafael&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Criador%20do%20LOTM%20Hub&descSize=25&descAlignY=60" width="100%" alt="Banner de Perfil" />
 </p>
