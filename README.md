@@ -31,7 +31,7 @@
     </td>
    <td width="40%" align="center">
       <!-- GIF Místico corrigido com link permanente -->
-      <img src="https://media1.tenor.com/m/2uMRFvcpyh4AAAAd/klein-moretti-lord-of-the-mysteries.gif" width="80%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(91, 33, 182, 0.5);" alt="Névoa Cinza" />
+      <img src="https://media1.tenor.com/m/2uMRFvcpyh4AAAAd/klein-moretti-lord-of-the-mysteries.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(91, 33, 182, 0.5);" alt="Névoa Cinza" />
     </td>
   </tr>
 </table>
