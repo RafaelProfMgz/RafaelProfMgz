@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="#cronicas"><img src="https://img.shields.io/badge/📜_Crônicas-5b21b6?style=for-the-badge" /></a>
-  <a href="#artefatos"><img src="https://img.shields.io/badge/🔮_Artefatos-5b21b6?style=for-the-badge" /></a>
-  <a href="#grimorio"><img src="https://img.shields.io/badge/📖_Grimório-5b21b6?style=for-the-badge" /></a>
-  <a href="#registros"><img src="https://img.shields.io/badge/📊_Registros-5b21b6?style=for-the-badge" /></a>
+  <a href="#cronicas"><img src="https://img.shields.io/badge/Crônicas-5b21b6?style=for-the-badge" /></a>
+  <a href="#artefatos"><img src="https://img.shields.io/badge/Artefatos-5b21b6?style=for-the-badge" /></a>
+  <a href="#grimorio"><img src="https://img.shields.io/badge/Grimório-5b21b6?style=for-the-badge" /></a>
+  <a href="#registros"><img src="https://img.shields.io/badge/Registros-5b21b6?style=for-the-badge" /></a>
 </p>
 
 ---
 
 <a id="cronicas"></a>
-## 📜 Crônicas do Beyonder
+## Crônicas do Beyonder
 
 <table border="0" width="100%">
   <tr>
@@ -36,7 +36,7 @@
 ---
 
 <a id="artefatos"></a>
-## 🔮 Artefatos em Destaque (Projetos)
+## Artefatos em Destaque (Projetos)
 
 <table border="1" bordercolor="#3b0764" width="100%">
   <tr>
@@ -141,20 +141,20 @@
 ---
 
 <a id="registros"></a>
-## 📊 Registros da Jornada (Estatísticas)
+## Registros da Jornada (Estatísticas)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelProfMgz&theme=dark&background=0d1117&ring=5b21b6&fire=5b21b6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&border=3b0764&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📈 Mar de Consciência (Atividade Recente)
+### Mar de Consciência (Atividade Recente)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelProfMgz&bg_color=0d1117&color=a78bfa&line=5b21b6&point=ffffff&area=true&hide_border=true&custom_title=Fluxo%20de%20C%C3%B3digos" alt="Activity Graph" width="100%" />
 </p>
 
 ---
 
-## 🤝 Conexões
+## Conexões
 
 <p align="center">
   <a href="mailto:rafaelprojmgz@gmail.com">
