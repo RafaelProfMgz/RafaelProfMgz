@@ -1,16 +1,20 @@
+# <p align="center">🌌 Bem-vindo ao meu Domínio Digital</p>
+
 <p align="center">
-  <!-- Rota do banner corrigida de /render para /api -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5b21b6&height=220&section=header&text=Angel%20Rafael&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Criador%20do%20LOTM%20Hub&descSize=25&descAlignY=60" width="100%" alt="Banner de Perfil" />
 </p>
 
 <p align="center">
-  <a href="#-sobre-mim"><img src="https://img.shields.io/badge/👁️_Sobre_Mim-5b21b6?style=for-the-badge" /></a>
-  <a href="#-artefatos-em-destaque"><img src="https://img.shields.io/badge/🔮_Projetos-5b21b6?style=for-the-badge" /></a>
-  <a href="#-grimório-tecnológico"><img src="https://img.shields.io/badge/📖_Grimório-5b21b6?style=for-the-badge" /></a>
-  <a href="#-registros-da-jornada"><img src="https://img.shields.io/badge/📊_Estatísticas-5b21b6?style=for-the-badge" /></a>
+  <a href="#sobre-mim"><img src="https://img.shields.io/badge/👁️_Sobre_Mim-5b21b6?style=for-the-badge" /></a>
+  <a href="#projetos"><img src="https://img.shields.io/badge/🔮_Projetos-5b21b6?style=for-the-badge" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/📖_Grimório-5b21b6?style=for-the-badge" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/📊_Estatísticas-5b21b6?style=for-the-badge" /></a>
 </p>
 
 ---
+
+<a id="sobre-mim"></a>
+## 👁️ Sobre Mim
 
 <table border="0" width="100%">
   <tr>
@@ -26,7 +30,6 @@
       </p>
     </td>
    <td width="40%" align="center">
-      <!-- GIF Místico corrigido com link permanente -->
       <img src="https://media1.tenor.com/m/2uMRFvcpyh4AAAAd/klein-moretti-lord-of-the-mysteries.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(91, 33, 182, 0.5);" alt="Névoa Cinza" />
     </td>
   </tr>
@@ -34,6 +37,7 @@
 
 ---
 
+<a id="projetos"></a>
 ## 🔮 Artefatos em Destaque (Projetos)
 
 <table border="1" bordercolor="#3b0764" width="100%">
@@ -75,6 +79,7 @@
 
 ---
 
+<a id="stack"></a>
 ## 📖 Grimório Tecnológico (Stack)
 
 <p align="center">
@@ -96,6 +101,7 @@
   <strong>🧠 Lógica & Fundamentos (Back-end)</strong><br>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" />
 </p>
 
 <p align="center">
@@ -136,6 +142,7 @@
 
 ---
 
+<a id="stats"></a>
 ## 📊 Registros da Jornada (Estatísticas)
 
 <p align="center">
@@ -176,5 +183,5 @@
 
 <p align="center">
   <i>"Nós salvamos o código, não a nós mesmos."</i> 🧐🎩<br>
-  Copyright © 2025 - <b>Angel Rafael Souza Da Silva</b>
+  Copyright © 2026 - <b>Angel Rafael Souza Da Silva</b>
 </p>
