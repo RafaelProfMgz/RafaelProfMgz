@@ -78,7 +78,7 @@
 ---
 
 <a id="grimorio"></a>
-## 📖 Grimório Tecnológico (Stack)
+## Grimório Tecnológico (Stack)
 
 <p align="center">
   <strong>📜 Alfabeto Arcano (Linguagens)</strong><br>
