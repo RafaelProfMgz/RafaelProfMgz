@@ -114,8 +114,6 @@
 
 <p align="center">
   <strong>IAs & Testes</strong><br>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Inteligência-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest_Testes-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
@@ -124,8 +122,6 @@
   <strong>⚔️ Criação de Mundos</strong><br>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Inteligência-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest_Testes-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 
