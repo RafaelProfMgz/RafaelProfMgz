@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-  <a href="#sobre-mim"><img src="https://img.shields.io/badge/👁️_Sobre_Mim-5b21b6?style=for-the-badge" /></a>
-  <a href="#projetos"><img src="https://img.shields.io/badge/🔮_Projetos-5b21b6?style=for-the-badge" /></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/📖_Grimório-5b21b6?style=for-the-badge" /></a>
-  <a href="#stats"><img src="https://img.shields.io/badge/📊_Estatísticas-5b21b6?style=for-the-badge" /></a>
+  <a href="#cronicas"><img src="https://img.shields.io/badge/📜_Crônicas-5b21b6?style=for-the-badge" /></a>
+  <a href="#artefatos"><img src="https://img.shields.io/badge/🔮_Artefatos-5b21b6?style=for-the-badge" /></a>
+  <a href="#grimorio"><img src="https://img.shields.io/badge/📖_Grimório-5b21b6?style=for-the-badge" /></a>
+  <a href="#registros"><img src="https://img.shields.io/badge/📊_Registros-5b21b6?style=for-the-badge" /></a>
 </p>
 
 ---
 
-<a id="sobre-mim"></a>
-## 👁️ Sobre Mim
+<a id="cronicas"></a>
+## 📜 Crônicas do Beyonder
 
 <table border="0" width="100%">
   <tr>
@@ -24,9 +24,9 @@
         Sou um Desenvolvedor Full Stack apaixonado por construir e hospedar mundos digitais interligados. Além de arquitetar sistemas robustos, crio ecossistemas onde diferentes jogos coexistem e compartilham uma narrativa profunda, unindo comunidades sob a mesma névoa de mistério.
       </p>
       <p>
-        🦑 <b>Criador:</b> Desenvolvedor por trás do <b>LOTM Hub</b> e <b>Witcher Oracle</b>.<br>
+        🦑 <b>Criador:</b> Arquiteto por trás do <b>LOTM Hub</b> e <b>Witcher Oracle</b>.<br>
         ⚡ <b>Curiosidade:</b> Exploro o uso de Inteligência Artificial para criar experiências imersivas e interfaces inteligentes.<br>
-        🎯 <b>Foco Atual:</b> Arquiteturas escaláveis unindo Front-end avançado (Next.js), Back-end robusto (NestJS/Microserviços) e servidores de jogos.
+        🎯 <b>Foco Atual:</b> Sequências de Front-end avançado (Next.js) e Rituais de Back-end (NestJS/Microserviços).
       </p>
     </td>
    <td width="40%" align="center">
@@ -37,7 +37,7 @@
 
 ---
 
-<a id="projetos"></a>
+<a id="artefatos"></a>
 ## 🔮 Artefatos em Destaque (Projetos)
 
 <table border="1" bordercolor="#3b0764" width="100%">
@@ -46,7 +46,7 @@
       <h3>👁️ LOTM Hub</h3>
       <p><i>O Multiverso sob a Névoa Cinza</i></p>
       <p align="justify" style="padding: 0 15px;">
-        Um ecossistema centralizado de servidores privados de jogos com uma temática de mistério inspirada em <i>Lord of the Mysteries</i>. O portal conecta múltiplos mundos de jogos que compartilham uma lore interligada, além de atuar como fórum comunitário e painel administrativo da rede.
+        Um ecossistema centralizado de servidores privados de jogos com uma temática de mistério baseada em <i>Lord of the Mysteries</i>. O portal conecta múltiplos mundos de jogos que compartilham uma lore interligada, além de atuar como fórum comunitário e painel administrativo da rede.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -79,7 +79,7 @@
 
 ---
 
-<a id="stack"></a>
+<a id="grimorio"></a>
 ## 📖 Grimório Tecnológico (Stack)
 
 <p align="center">
@@ -142,7 +142,7 @@
 
 ---
 
-<a id="stats"></a>
+<a id="registros"></a>
 ## 📊 Registros da Jornada (Estatísticas)
 
 <p align="center">
@@ -182,6 +182,6 @@
 <br>
 
 <p align="center">
-  <i>"Nós salvamos o código, não a nós mesmos."</i> 🧐🎩<br>
-  Copyright © 2026 - <b>Angel Rafael Souza Da Silva</b>
+  <i>"O Louco que não pertence a esta era; O Governante Misterioso acima da Névoa Cinza; O Rei do Amarelo e do Preto que domina o código e a sorte."</i><br>
+  Copyright © 2025 - <b>Angel Rafael Souza Da Silva</b>
 </p>
