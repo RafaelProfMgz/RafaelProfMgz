@@ -12,8 +12,6 @@
 
 ---
 
-## 👁️ Sobre Mim
-
 <table border="0" width="100%">
   <tr>
     <td width="60%">
