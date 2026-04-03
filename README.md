@@ -61,20 +61,6 @@
 
 ---
 
-## 🗺️ Ciclo de Desenvolvimento
-
-```mermaid
-graph TD
-  A[Pesquisa & Design UX] --> B{Codificação}
-  B --> C[CI/CD & Pipeline]
-  C --> D{Produção}
-  D --> |Monitoramento| A
-  style A fill:#7333ff,stroke:#fff,color:#fff
-  style D fill:#00ff88,stroke:#000
-```
-
----
-
 ## 🎵 Agora na PlayList
 <p align="center">
   <a href="https://open.spotify.com/user/31xiahxp2kfbt737xbm7qrc3i4jm">
