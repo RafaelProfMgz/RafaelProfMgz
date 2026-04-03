@@ -28,7 +28,6 @@
       </p>
     </td>
     <td width="40%" align="center">
-      <!-- GIF animado para dar um toque moderno -->
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="80%" style="border-radius: 10px;" />
     </td>
   </tr>
@@ -64,26 +63,20 @@
 
 ---
 
-## 📊 Dashboards
+## 📊 Dashboards & Contribuições
 
 <p align="center">
-  <!-- Cores personalizadas para combinar com o banner roxo -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelProfMgz&show_icons=true&bg_color=0d1117&title_color=7333ff&text_color=c9d1d9&icon_color=7333ff&border_color=21262d&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelProfMgz&layout=compact&langs_count=6&bg_color=0d1117&title_color=7333ff&text_color=c9d1d9&border_color=21262d"/>
 </p>
 
-### 🐍 Commits Snake Game
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RafaelProfMgz/RafaelProfMgz/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelProfMgz&theme=dark&background=0d1117&ring=7333ff&fire=7333ff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=7333ff&sideLabels=c9d1d9&dates=c9d1d9&border=21262d&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
-
-## 🎵 Code Vibe
+### 📈 Gráfico de Atividades
 <p align="center">
-  <a href="https://open.spotify.com/user/31xiahxp2kfbt737xbm7qrc3i4jm">
-    <img src="https://novatide-spotify-readme.vercel.app/api/now-playing?uid=31xiahxp2kfbt737xbm7qrc3i4jm" width="400" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelProfMgz&bg_color=0d1117&color=7333ff&line=7333ff&point=ffffff&area=true&hide_border=true&custom_title=Jornada%20de%20C%C3%B3digo" alt="Activity Graph" width="100%" />
 </p>
 
 ---
