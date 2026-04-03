@@ -46,7 +46,7 @@
       <h3>👁️ LOTM Hub</h3>
       <p><i>O Multiverso sob a Névoa Cinza</i></p>
       <p align="justify" style="padding: 0 15px;">
-        Um ecossistema centralizado de servidores privados de jogos com uma temática de mistério baseada em <i>Lord of the Mysteries</i>. O portal conecta múltiplos mundos de jogos que compartilham uma lore interligada, além de atuar como fórum comunitário e painel administrativo da rede.
+        Um ecossistema centralizado de servidores privados de jogos com uma temática de mistério inspirada em <i>Lord of the Mysteries</i>. O portal conecta múltiplos mundos de jogos que compartilham uma lore interligada, além de atuar como fórum comunitário e painel administrativo da rede.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -146,8 +146,10 @@
 ## 📊 Registros da Jornada (Estatísticas)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelProfMgz&show_icons=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa&border_color=3b0764&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelProfMgz&layout=compact&langs_count=6&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=3b0764"/>
+  <!-- Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelProfMgz&show_icons=true&theme=radical&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&border_color=5b21b6&include_all_commits=true&count_private=true" />
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelProfMgz&layout=compact&langs_count=6&theme=radical&title_color=a78bfa&text_color=ffffff&bg_color=0d1117&border_color=5b21b6" />
 </p>
 
 <p align="center">
@@ -182,6 +184,6 @@
 <br>
 
 <p align="center">
-  <i>"O Louco que não pertence a esta era; O Governante Misterioso acima da Névoa Cinza; O Rei do Amarelo e do Preto que domina o código e a sorte."</i><br>
+  <i>"O Louco que não pertence a esta era; O Governante Misterioso acima da Névoa Cinza; O Rei do Amarelo e do Preto que domina o código e a sorte."</i> <br>
   Copyright © 2025 - <b>Angel Rafael Souza Da Silva</b>
 </p>
