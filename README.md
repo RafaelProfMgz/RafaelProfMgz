@@ -20,16 +20,15 @@
     <td width="60%">
       <h3>Saudações, Explorador! Sou Angel Rafael 👋</h3>
       <p align="justify">
-        Sou um Desenvolvedor Full Stack apaixonado por construir mundos digitais, organizar o caos e arquitetar sistemas robustos. Assim como no universo de <i>Lord of the Mysteries</i>, acredito que o avanço tecnológico é como escalar "Sequências" — exige estudo constante, lógica profunda e a ferramenta certa.
+        Sou um Desenvolvedor Full Stack apaixonado por construir e hospedar mundos digitais interligados. Além de arquitetar sistemas robustos, crio ecossistemas onde diferentes jogos coexistem e compartilham uma narrativa profunda, unindo comunidades sob a mesma névoa de mistério.
       </p>
       <p>
         🦑 <b>Criador:</b> Desenvolvedor por trás do <b>LOTM Hub</b> e <b>Witcher Oracle</b>.<br>
         ⚡ <b>Curiosidade:</b> Exploro o uso de Inteligência Artificial para criar experiências imersivas e interfaces inteligentes.<br>
-        🎯 <b>Foco Atual:</b> Arquiteturas escaláveis unindo Front-end avançado (Next.js) e Back-end robusto (NestJS/Microserviços).
+        🎯 <b>Foco Atual:</b> Arquiteturas escaláveis unindo Front-end avançado (Next.js), Back-end robusto (NestJS/Microserviços) e servidores de jogos.
       </p>
     </td>
     <td width="40%" align="center">
-      <!-- GIF com temática mágica/espacial roxa para combinar com o tema LOTM -->
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhlN3E0YnRza3F5cmI4bmR2bnVzNXJ2Y3ZzYzI5NXRzYXp1cGk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lp8kVSwaUSU68weB71/giphy.gif" width="80%" style="border-radius: 10px;" alt="Mystical Universe" />
     </td>
   </tr>
@@ -43,9 +42,9 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>👁️ LOTM Hub</h3>
-      <p><i>A Enciclopédia sob a Névoa Cinza</i></p>
+      <p><i>O Multiverso sob a Névoa Cinza</i></p>
       <p align="justify" style="padding: 0 15px;">
-        A interface centralizada definitiva para o universo de <i>Lord of the Mysteries</i>. Atua como portal de lore, fórum interativo e painel de controle administrativo para servidores de jogos.
+        Um ecossistema centralizado de servidores privados de jogos com uma temática de mistério inspirada em <i>Lord of the Mysteries</i>. O portal conecta múltiplos mundos de jogos que compartilham uma lore interligada, além de atuar como fórum comunitário e painel administrativo da rede.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
