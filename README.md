@@ -175,6 +175,5 @@
 <br>
 
 <p align="center">
-  <i>"O Louco que não pertence a esta era; O Governante Misterioso acima da Névoa Cinza; O Rei do Amarelo e do Preto que domina o código e a sorte."</i> <br>
-  Copyright © 2026 - <b>Angel Rafael Souza Da Silva</b>
+  <i>"O Louco que não pertence a esta era; O Governante Misterioso acima da Névoa Cinza; O Rei do Amarelo e do Preto que domina o código e a sorte."</i>
 </p>
