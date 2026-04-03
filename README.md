@@ -1,7 +1,8 @@
 # <p align="center">🌌 Bem-vindo ao meu Domínio Digital</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=5b21b6&height=220&section=header&text=Angel%20Rafael&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Criador%20do%20LOTM%20Hub&descSize=25&descAlignY=60" width="100%" />
+  <!-- Rota do banner corrigida de /render para /api -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5b21b6&height=220&section=header&text=Angel%20Rafael&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Criador%20do%20LOTM%20Hub&descSize=25&descAlignY=60" width="100%" alt="Banner de Perfil" />
 </p>
 
 <p align="center">
@@ -28,8 +29,9 @@
         🎯 <b>Foco Atual:</b> Arquiteturas escaláveis unindo Front-end avançado (Next.js), Back-end robusto (NestJS/Microserviços) e servidores de jogos.
       </p>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhlN3E0YnRza3F5cmI4bmR2bnVzNXJ2Y3ZzYzI5NXRzYXp1cGk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lp8kVSwaUSU68weB71/giphy.gif" width="80%" style="border-radius: 10px;" alt="Mystical Universe" />
+   <td width="40%" align="center">
+      <!-- GIF Místico corrigido com link permanente -->
+      <img src="https://media1.tenor.com/m/2uMRFvcpyh4AAAAd/klein-moretti-lord-of-the-mysteries.gif" width="80%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(91, 33, 182, 0.5);" alt="Névoa Cinza" />
     </td>
   </tr>
 </table>
