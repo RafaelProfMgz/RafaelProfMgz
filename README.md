@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="#-sobre-mim"><img src="https://img.shields.io/badge/👁️_Sobre_Mim-5b21b6?style=for-the-badge" /></a>
+  <a href="#-artefatos-em-destaque"><img src="https://img.shields.io/badge/🔮_Projetos-5b21b6?style=for-the-badge" /></a>
   <a href="#-grimório-tecnológico"><img src="https://img.shields.io/badge/📖_Grimório-5b21b6?style=for-the-badge" /></a>
-  <a href="#-projetos-em-destaque"><img src="https://img.shields.io/badge/🔮_Projetos-5b21b6?style=for-the-badge" /></a>
   <a href="#-registros-da-jornada"><img src="https://img.shields.io/badge/📊_Estatísticas-5b21b6?style=for-the-badge" /></a>
 </p>
 
@@ -23,9 +23,9 @@
         Sou um Desenvolvedor Full Stack apaixonado por construir mundos digitais, organizar o caos e arquitetar sistemas robustos. Assim como no universo de <i>Lord of the Mysteries</i>, acredito que o avanço tecnológico é como escalar "Sequências" — exige estudo constante, lógica profunda e a ferramenta certa.
       </p>
       <p>
-        🦑 <b>Fundador & Criador:</b> Desenvolvedor por trás do <a href="https://www.lotmhub.com.br/" target="_blank"><b>LOTM Hub</b></a>.<br>
-        ⚡ <b>Curiosidade:</b> Exploro o uso de Inteligência Artificial para desvendar códigos complexos e otimizar rotinas.<br>
-        🎯 <b>Foco Atual:</b> Criar interfaces imersivas (front-end) apoiadas por bases de dados escaláveis (back-end).
+        🦑 <b>Criador:</b> Desenvolvedor por trás do <b>LOTM Hub</b> e <b>Witcher Oracle</b>.<br>
+        ⚡ <b>Curiosidade:</b> Exploro o uso de Inteligência Artificial para criar experiências imersivas e interfaces inteligentes.<br>
+        🎯 <b>Foco Atual:</b> Arquiteturas escaláveis unindo Front-end avançado (Next.js) e Back-end robusto (NestJS/Microserviços).
       </p>
     </td>
     <td width="40%" align="center">
@@ -37,14 +37,44 @@
 
 ---
 
-## 🔮 Projetos em Destaque
+## 🔮 Artefatos em Destaque (Projetos)
 
-| <a href="https://www.lotmhub.com.br/"><img src="https://img.shields.io/badge/🌐_Acessar_Site-5b21b6?style=flat-square" /></a> | **LOTM Hub - A Enciclopédia Definitiva** |
-| :--- | :--- |
-| **Descrição:** | O maior hub focado no universo de *Lord of the Mysteries*. Construído com foco em performance, SEO e uma interface profundamente imersiva em modo escuro para os leitores. |
-| **Status:** | 🚀 Em constante evolução (Atualizações ativas) |
-
-*(Fique à vontade para explorar meus repositórios públicos abaixo para ver as engrenagens por trás das minhas aplicações).*
+<table border="1" bordercolor="#3b0764" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>👁️ LOTM Hub</h3>
+      <p><i>A Enciclopédia sob a Névoa Cinza</i></p>
+      <p align="justify" style="padding: 0 15px;">
+        A interface centralizada definitiva para o universo de <i>Lord of the Mysteries</i>. Atua como portal de lore, fórum interativo e painel de controle administrativo para servidores de jogos.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Payload_CMS-000000?style=flat-square&logo=payload&logoColor=white" />
+        <img src="https://img.shields.io/badge/Directus-64fcd9?style=flat-square&logo=directus&logoColor=black" />
+      </p>
+      <br>
+      <a href="https://www.lotmhub.com.br/"><img src="https://img.shields.io/badge/🌐_Acessar_Portal-5b21b6?style=for-the-badge" /></a><br><br>
+      <a href="https://github.com/RafaelProfMgz/lotmHub-_next"><img src="https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github" /></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🐺 Witcher Oracle</h3>
+      <p><i>O Oráculo do Bruxo guiado por IA</i></p>
+      <p align="justify" style="padding: 0 15px;">
+        Um chat imersivo com interface <i>Glassmorphism</i> onde o sábio bruxo Vesemir responde perguntas sobre lore, missões e builds de <i>The Witcher 3</i>, utilizando respostas em tempo real (streaming).
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      </p>
+      <br>
+      <a href="https://chat-the-witcher.vercel.app/"><img src="https://img.shields.io/badge/🐺_Falar_com_Vesemir-5b21b6?style=for-the-badge" /></a><br><br>
+      <a href="https://github.com/RafaelProfMgz/chat_the_witcher"><img src="https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -105,9 +135,6 @@
   </a>
   <a href="https://github.com/RafaelProfMgz">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.lotmhub.com.br/">
-    <img src="https://img.shields.io/badge/LOTM_Hub-5b21b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Site LOTM Hub" />
   </a>
 </p>
 
