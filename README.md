@@ -146,13 +146,6 @@
 ## 📊 Registros da Jornada (Estatísticas)
 
 <p align="center">
-  <!-- Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelProfMgz&show_icons=true&theme=radical&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&border_color=5b21b6&include_all_commits=true&count_private=true" />
-  <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelProfMgz&layout=compact&langs_count=6&theme=radical&title_color=a78bfa&text_color=ffffff&bg_color=0d1117&border_color=5b21b6" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelProfMgz&theme=dark&background=0d1117&ring=5b21b6&fire=5b21b6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&border=3b0764&hide_border=true" alt="GitHub Streak" />
 </p>
 
