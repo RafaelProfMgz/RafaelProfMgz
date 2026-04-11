@@ -19,14 +19,14 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%">
-      <h3>Saudações, Explorador! Sou Angel Rafael 👋</h3>
+      <h3>Saudações, Explorador! Sou Angel Rafael</h3>
       <p align="justify">
         Sou um Desenvolvedor Full Stack apaixonado por construir e hospedar mundos digitais interligados. Além de arquitetar sistemas robustos, crio ecossistemas onde diferentes jogos coexistem e compartilham uma narrativa profunda, unindo comunidades sob a mesma névoa de mistério.
       </p>
       <p>
-        🦑 <b>Criador:</b> Arquiteto por trás do <b>LOTM Hub</b> e <b>Witcher Oracle</b>.<br>
-        ⚡ <b>Curiosidade:</b> Exploro o uso de Inteligência Artificial para criar experiências imersivas e interfaces inteligentes.<br>
-        🎯 <b>Foco Atual:</b> Sequências de Front-end avançado (Next.js) e Rituais de Back-end (NestJS/Microserviços).
+         <b>Criador:</b> Arquiteto por trás do <b>LOTM Hub</b> e <b>Witcher Oracle</b>.<br>
+         <b>Curiosidade:</b> Exploro o uso de Inteligência Artificial para criar experiências imersivas e interfaces inteligentes.<br>
+         <b>Foco Atual:</b> Sequências de Front-end avançado (Next.js) e Rituais de Back-end (NestJS/Microserviços).
       </p>
     </td>
    <td width="40%" align="center">
@@ -87,7 +87,7 @@
 ## Grimório Tecnológico (Stack)
 
 <p align="center">
-  <strong>📜 Alfabeto Arcano (Linguagens)</strong><br>
+  <strong> Alfabeto Arcano (Linguagens)</strong><br>
   <img src="https://img.shields.io/badge/TypeScript/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -95,28 +95,28 @@
 </p>
 
 <p align="center">
-  <strong>🌌 Ilusões & Interfaces (Front-end)</strong><br>
+  <strong> Ilusões & Interfaces (Front-end)</strong><br>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>🧠 Lógica & Fundamentos (Back-end)</strong><br>
+  <strong> Lógica & Fundamentos (Back-end)</strong><br>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>🗄️ Câmaras de Memória (Bancos de Dados)</strong><br>
+  <strong> Câmaras de Memória (Bancos de Dados)</strong><br>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 <p align="center">
-  <strong>☁️ Domínios Astrais (Cloud & Hospedagem)</strong><br>
+  <strong> Domínios Astrais (Cloud & Hospedagem)</strong><br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -124,7 +124,7 @@
 </p>
 
 <p align="center">
-  <strong>⚙️ Artefatos de Controle (DevOps, Sistema & Testes)</strong><br>
+  <strong> Artefatos de Controle (DevOps, Sistema & Testes)</strong><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -132,7 +132,7 @@
 </p>
 
 <p align="center">
-  <strong>🔮 Entidades Cognitivas (Inteligência Artificial)</strong><br>
+  <strong> Entidades Cognitivas (Inteligência Artificial)</strong><br>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
