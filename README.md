@@ -74,7 +74,7 @@
       </p>
       <br>
       <a href="https://chat-the-witcher.vercel.app/"><img src="https://img.shields.io/badge/🐺_Falar_com_Vesemir-5b21b6?style=for-the-badge" /></a><br><br>
-      <a href="https://github.com/RafaelProfMgz/chat_the_witcher"><img src="https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github" /></a>
+      </a>
     </td>
   </tr>
 </table>
