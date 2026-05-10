@@ -58,7 +58,7 @@
       </p>
       <br>
       <a href="https://www.lotmhub.com.br/"><img src="https://img.shields.io/badge/🌐_Acessar_Portal-5b21b6?style=for-the-badge" /></a><br><br>
-      <a href="https://github.com/RafaelProfMgz/lotmHub-_next"><img src="https://img.shields.io/badge/📂_Ver_Código-181717?style=for-the-badge&logo=github" /></a>
+      </a>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🐺 Witcher Oracle</h3>
