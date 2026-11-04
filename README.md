@@ -1,198 +1,157 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5b21b6&height=220&section=header&text=Angel%20Rafael&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Criador%20do%20LOTM%20Hub&descSize=25&descAlignY=60" width="100%" alt="Banner de Perfil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5b21b6&height=200&section=header&text=Angel%20Rafael&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%E2%80%A2%20Sinop%20-%20MT&descSize=22&descAlignY=58" width="100%" alt="Angel Rafael — Desenvolvedor Full Stack" />
 </p>
 
 <p align="center">
-  <a href="#cronicas"><img src="https://img.shields.io/badge/Crônicas-5b21b6?style=for-the-badge" /></a>
-  <a href="#artefatos"><img src="https://img.shields.io/badge/Artefatos-5b21b6?style=for-the-badge" /></a>
-  <a href="#grimorio"><img src="https://img.shields.io/badge/Grimório-5b21b6?style=for-the-badge" /></a>
-  <a href="#registros"><img src="https://img.shields.io/badge/Registros-5b21b6?style=for-the-badge" /></a>
+  <a href="https://www.lotmhub.com.br/"><img src="https://img.shields.io/badge/Portfólio-lotmhub.com.br-5b21b6?style=for-the-badge" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/angel-rafael-souza-da-silva-a5ba2521a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rafaelprojmgz@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
+## Sobre mim
 
-<a id="cronicas"></a>
-## Crônicas do Beyonder
+Sou desenvolvedor full stack em Sinop - MT e cuido de produtos do primeiro rascunho ao ar: arquitetura, código, banco de dados, deploy e manutenção. Mantenho o **[LotHub](https://www.lotmhub.com.br/)**, meu estúdio e portfólio, onde cada projeto roda no próprio subdomínio — hoje são **10 projetos em produção**, entre e-commerce, plataformas, portais de notícias e apps desktop open source.
 
-<table border="0" width="100%">
+- **No dia a dia:** TypeScript, Next.js (App Router, Server Components), React, Node.js, Prisma e PostgreSQL.
+- **Também escrevo:** Go e Rust para ferramentas de linha de comando e desktop, e Python para automação e IA.
+- **O que eu valorizo:** segurança no banco (RLS, validação no servidor), SEO técnico, performance e código testável.
+- **Interesse atual:** produtos com IA — agentes, MCP e integração com OpenAI, Claude e Gemini.
+
+## Projetos em destaque
+
+<table>
   <tr>
-    <td width="60%">
-      <h3>Saudações, Explorador! Sou Angel Rafael</h3>
-      <p align="justify">
-        Sou um Desenvolvedor Full Stack apaixonado por construir e hospedar mundos digitais interligados. Além de arquitetar sistemas robustos, crio ecossistemas onde diferentes jogos coexistem e compartilham uma narrativa profunda, unindo comunidades sob a mesma névoa de mistério.
-      </p>
+    <td width="50%" valign="top">
+      <a href="https://beliscou.lotmhub.com.br"><img src="https://beliscou.lotmhub.com.br/opengraph-image" width="100%" alt="Beliscou" /></a>
+      <h3>Beliscou</h3>
+      <p>Loja virtual de pesca em Sinop - MT: catálogo com busca e variações, carrinho que fecha o pedido no WhatsApp com o preço conferido no servidor, desconto no Pix e painel pensado para o celular.</p>
       <p>
-         <b>Criador:</b> Arquiteto por trás do <b>LOTM Hub</b> e <b>Witcher Oracle</b>.<br>
-         <b>Curiosidade:</b> Exploro o uso de Inteligência Artificial para criar experiências imersivas e interfaces inteligentes.<br>
-         <b>Foco Atual:</b> Sequências de Front-end avançado (Next.js) e Rituais de Back-end (NestJS/Microserviços).
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
       </p>
+      <a href="https://beliscou.lotmhub.com.br">beliscou.lotmhub.com.br</a>
     </td>
-   <td width="40%" align="center">
-      <img src="https://media1.tenor.com/m/2uMRFvcpyh4AAAAd/klein-moretti-lord-of-the-mysteries.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 15px rgba(91, 33, 182, 0.5);" alt="Névoa Cinza" />
+    <td width="50%" valign="top">
+      <a href="https://alpendre.lotmhub.com.br"><img src="https://alpendre.lotmhub.com.br/opengraph-image.png" width="100%" alt="Alpendre" /></a>
+      <h3>Alpendre</h3>
+      <p>Plataforma de histórias publicadas capítulo a capítulo: biblioteca, avaliações, comentários, busca tolerante a erros e painel para autores, com regras de acesso aplicadas no próprio banco (RLS).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      </p>
+      <a href="https://alpendre.lotmhub.com.br">alpendre.lotmhub.com.br</a>
     </td>
   </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-<a id="artefatos"></a>
-## Artefatos em Destaque (Projetos)
-
-<table border="1" bordercolor="#3b0764" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>👁️ LOTM Hub</h3>
-      <p><i>O Multiverso sob a Névoa Cinza</i></p>
-      <p align="justify" style="padding: 0 15px;">
-        Um ecossistema centralizado de servidores privados de jogos com uma temática de mistério inspirada em <i>Lord of the Mysteries</i>. O portal conecta múltiplos mundos de jogos que compartilham uma lore interligada, além de atuar como fórum comunitário e painel administrativo da rede.
+    <td width="50%" valign="top">
+      <a href="https://kernel.lotmhub.com.br/home"><img src="https://kernel.lotmhub.com.br/og.png" width="100%" alt="Lotm Kernel" /></a>
+      <h3>Lotm Kernel</h3>
+      <p>Portal de notícias de tecnologia feito em Sinop - MT, com nove editorias, newsletter, RSS e sitemap para o Google Notícias. Arquitetura Ports &amp; Adapters, ISR e publicação por agente de IA via servidor MCP.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Payload_CMS-000000?style=flat-square&logo=payload&logoColor=white" />
-        <img src="https://img.shields.io/badge/Directus-64fcd9?style=flat-square&logo=directus&logoColor=black" />
-      </p>
-      <br>
-      <a href="https://www.lotmhub.com.br/"><img src="https://img.shields.io/badge/🌐_Acessar_Portal-5b21b6?style=for-the-badge" /></a><br><br>
-      </a>
+      <a href="https://kernel.lotmhub.com.br/home">kernel.lotmhub.com.br</a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🐺 Witcher Oracle</h3>
-      <p><i>O Oráculo do Bruxo guiado por IA</i></p>
-      <p align="justify" style="padding: 0 15px;">
-        Um chat imersivo com interface <i>Glassmorphism</i> onde o sábio bruxo Vesemir responde perguntas sobre lore, missões e builds de <i>The Witcher 3</i>, utilizando respostas em tempo real (streaming).
+    <td width="50%" valign="top">
+      <a href="https://oraculodolobo.lotmhub.com.br"><img src="https://oraculodolobo.lotmhub.com.br/opengraph-image" width="100%" alt="Oráculo do Lobo" /></a>
+      <h3>Oráculo do Lobo</h3>
+      <p>Chat com IA no universo de <i>The Witcher</i>: escolha entre Vesemir, Triss, Yennefer ou Dandelion e pergunte sobre lore, quests e builds, com bestiário e limite de uso por IP.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
       </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-      </p>
-      <br>
-      <a href="https://chat-the-witcher.vercel.app/"><img src="https://img.shields.io/badge/🐺_Falar_com_Vesemir-5b21b6?style=for-the-badge" /></a><br><br>
-      </a>
+      <a href="https://oraculodolobo.lotmhub.com.br">oraculodolobo.lotmhub.com.br</a>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
+## Open source
 
-<a id="grimorio"></a>
-## Grimório Tecnológico (Stack)
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [**doknyu**](https://github.com/RafaelProfMgz/doknyu) | App desktop para gerenciar Docker no Linux: containers, logs, estatísticas, volumes, redes e terminal embutido. 100% local, sem telemetria. | Rust · iced · bollard |
+| [**ZapTerm**](https://github.com/RafaelProfMgz/zapTerm) | Cliente de WhatsApp no terminal: QR Code, conversas, mídias, grupos e até 5 contas ao mesmo tempo. | Go · whatsmeow · Ink |
+| [**narrar**](https://github.com/RafaelProfMgz/conversor_texto_audio) | Transforma PDF, Markdown e texto em áudio com voz pt-BR natural, 100% offline. | Python · Piper / Kokoro (ONNX) |
+| [**coffe to relax**](https://github.com/RafaelProfMgz/coffe_relax) | Ambiente de foco no navegador com sons relaxantes gerados ao vivo e vários players ao mesmo tempo. | Next.js · Web Audio |
 
-<p align="center">
-  <strong> Alfabeto Arcano (Linguagens)</strong><br>
-  <img src="https://img.shields.io/badge/TypeScript/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<p>Todos os projetos, com prints e detalhes técnicos: <a href="https://www.lotmhub.com.br/"><b>lotmhub.com.br</b></a></p>
 
-<p align="center">
-  <strong> Ilusões & Interfaces (Front-end)</strong><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+## Tecnologias
 
-<p align="center">
-  <strong> Lógica & Fundamentos (Back-end)</strong><br>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" />
-</p>
+**Linguagens**<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
-<p align="center">
-  <strong> Câmaras de Memória (Bancos de Dados)</strong><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+**Front-end**<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 
-<p align="center">
-  <strong> Domínios Astrais (Cloud & Hospedagem)</strong><br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-</p>
+**Back-end e dados**<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
-<p align="center">
-  <strong> Artefatos de Controle (DevOps, Sistema & Testes)</strong><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-</p>
+**Infra, DevOps e testes**<br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 
-<p align="center">
-  <strong> Entidades Cognitivas (Inteligência Artificial)</strong><br>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
+**Inteligência artificial**<br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
 
-<p align="center">
-  <strong>⚔️ Gênese (Criação de Mundos)</strong><br>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-</p>
+**Jogos (hobby)**<br>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+
+## Atividade no GitHub
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-<a id="registros"></a>
-## Registros da Jornada (Estatísticas)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelProfMgz&theme=dark&background=0d1117&ring=5b21b6&fire=5b21b6&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&border=3b0764&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### Mar de Consciência (Atividade Recente)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelProfMgz&bg_color=0d1117&color=a78bfa&line=5b21b6&point=ffffff&area=true&hide_border=true&custom_title=Fluxo%20de%20C%C3%B3digos" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelProfMgz&theme=dark&background=0d1117&ring=5b21b6&fire=a78bfa&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="Sequência de contribuições no GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelProfMgz&bg_color=0d1117&color=a78bfa&line=5b21b6&point=ffffff&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" alt="Gráfico de contribuições recentes" width="100%" />
 </p>
 
-## Conexões
+## Contato
 
-<p align="center">
-  <a href="mailto:rafaelprojmgz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/angel-rafael-souza-da-silva-a5ba2521a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+Aberto a oportunidades como desenvolvedor full stack e a projetos sob medida para empresas.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafaelProfMgz&color=5b21b6&style=flat-square&label=VISITAS+AO+DOMÍNIO" alt="contagem de visitas" />
+<p>
+  <a href="https://www.lotmhub.com.br/"><img src="https://img.shields.io/badge/Portfólio-lotmhub.com.br-5b21b6?style=for-the-badge" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/angel-rafael-souza-da-silva-a5ba2521a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rafaelprojmgz@gmail.com"><img src="https://img.shields.io/badge/rafaelprojmgz@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 <p align="center">
-  <a href="https://portifolio-rust-iota-61.vercel.app/">
-Portfólio
-  </a>
-</p>
-
-
-<br>
-
-<p align="center">
-  <i>"O Louco que não pertence a esta era; O Governante Misterioso acima da Névoa Cinza; O Rei do Amarelo e do Preto que domina o código e a sorte."</i> <br> Transcrito sob a luz das estrelas por Angel Rafael • Era da Névoa Cinza
-</br>
+  <sub><i>"Acima da névoa cinza, o código."</i> — LotHub</sub>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5b21b6&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5b21b6&height=100&section=footer" width="100%" alt="" />
 </p>
